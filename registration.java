@@ -1,1 +1,4 @@
-public class Registration{}
+public class Registration{
+
+public static void get(){}
+}
